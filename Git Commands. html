@@ -1,3 +1,22 @@
 Check git version which Exist in your Computer
-     
      git  --version
+
+
+cd ;- control Dirctory
+example:  cd  myDirectory 
+           your path:-  C:/hp/GitFolder/myDirectory>
+
+cd..  :- comeout from Directory
+example: if your path :- C:/hp/GitFolder/myDirectory>
+         when  you gave  cd..
+         now your path:- C:/hp/ GitFolder>
+
+ls:- Display list of all  directory,files etc.
+
+clear:- clear the terminal
+
+pwd:- Current Working Directory
+
+ls -a: to check all files/hidden files
+
+
