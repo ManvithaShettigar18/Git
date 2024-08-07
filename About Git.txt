@@ -9,5 +9,5 @@ It is a tool that helps to track changes in code.
  Example for git in General:
  Git  was similour to our  bank account  where it track all out transaction.credit,debit,intrest rtc.
 
-<b>Version Control</b>
+Version Control
 
