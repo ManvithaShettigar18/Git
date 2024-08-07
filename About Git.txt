@@ -9,5 +9,11 @@ It is a tool that helps to track changes in code.
  Example for git in General:
  Git  was similour to our  bank account  where it track all out transaction.credit,debit,intrest rtc.
 
-Version Control
+Version Control:
+track  entair history of the project . if any content was added or deleted all are tracked by version Control.
 
+
+GITHUB--->
+website that allow devloper tp store and manage their code using git.
+Https://github.com
+Generaly we upload code of our project in the form of Folder. those folders are called a Repository.
